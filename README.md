@@ -1,6 +1,6 @@
 <div align = "center" id = "top">
 
-<img width="300" src="https://user-images.githubusercontent.com/60857927/109225727-6d763900-779c-11eb-8517-5696bfc39981.gif">
+<img width="600" src="https://user-images.githubusercontent.com/60857927/109225727-6d763900-779c-11eb-8517-5696bfc39981.gif">
 
 </div>
 
