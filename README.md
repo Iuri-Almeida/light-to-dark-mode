@@ -10,7 +10,7 @@
 
 <a href="#descricao">Descrição</a> &#xa0; | &#xa0;
 <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-<a href="#referencias">Referências</a> &#xa0; | &#xa0;
+<a href="#referencias">Referências</a>
 
 </p>
 
